@@ -42,16 +42,13 @@ Essa solução será fundamental para apoiar a GSW no gerenciamento das demandas
 ---
 
 ## 🗓️ Cronograma <a name="cronograma"></a>
-| Entrega              | Período               | Status         | Relatório                 |
-|----------------------|-----------------------|----------------|---------------------------|
-| **Kick Off**         | 27/08 – 29/08/2025    | ⌛ Em andamento   |       |
-| **Sprint 1**         | 08/09 – 28/09/2025    | ⛔ Não iniciado  | [ver relatório]  |
-| **Sprint 2**         | 06/10 – 26/10/2025    | ⛔ Não iniciado   | [ver relatório]      |
-| **Sprint 3**         | 03/11 – 23/11/2025    | ⛔ Não iniciado   | [ver relatório]      |
-| **Feira de Soluções**| 04/12/2025           | ⌛ Planejado   |      |
-
-## 🎥 Vídeo do Projeto (colocar em coluna)
-
+| Entrega | Período | Status | Relatório | Vídeo |
+|---|---|---|---|---|
+| **Kick Off** | 27/08 – 29/08/2025 | ⌛ Em andamento | | |
+| **Sprint 1** | 08/09 – 28/09/2025 | ⛔ Não iniciado | [ver relatório] | [🎥 Vídeo] |
+| **Sprint 2** | 06/10 – 26/10/2025 | ⛔ Não iniciado | [ver relatório] | [🎥 Vídeo] |
+| **Sprint 3** | 03/11 – 23/11/2025 | ⛔ Não iniciado | [ver relatório] | [🎥 Vídeo] |
+| **Feira de Soluções** | 04/12/2025 | ⌛ Planejado | | |
 ---
 ## 🛠️ Tecnologias Utilizadas <a name="tecnologias"></a>
 
