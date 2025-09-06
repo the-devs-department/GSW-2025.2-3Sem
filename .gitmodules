@@ -1,3 +1,6 @@
 [submodule "Front"]
 	path = Front
 	url = https://github.com/the-devs-department/FRONT-END-GSW.git
+[submodule "Back"]
+	path = Back
+	url = https://github.com/the-devs-department/BACK-END.git
