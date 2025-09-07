@@ -2,8 +2,7 @@
 # API-GSW
 
 > **Projeto SCRUM**: Foco em proatividade, autonomia, colaboração e entrega de resultados.
-
-📌 **Nosso [contato](#equipe)** está no final do README!  
+  
 
 ## 📌 Visão do Projeto <a name="visao-do-projeto"></a>
 
@@ -24,19 +23,19 @@ Entre os principais benefícios esperados estão:
 Essa solução será fundamental para apoiar a GSW no gerenciamento das demandas de suas equipes, otimizando a comunicação, o planejamento e a produtividade.
 
 ---
-## 📊 Product Backlog  <a name="product-backlog"></a>
+## 📊 Product Backlog <a name="product-backlog"></a>
 
-| Rank | Prioridade | User Story                                                                 | Estimativa | Sprint |
-|------|------------|-----------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como usuário, quero criar, editar e excluir atividades para organizar meu trabalho; |           | 1      |
-| 2    | Alta       | Como usuário, quero anexar arquivos em tarefas ao concluir para garantir a entrega; |           | 1      |
-| 3    | Alta       | Como usuário, quero atribuir atividades a membros da equipe para distribuir as responsabilidades; |           | 1      |
-| 4    | Alta       | Como usuário, quero acessar a plataforma com Login próprio para maior autonomia e segurança; |           | 1      |
-| 5    | Média      | Como usuário, quero visualizar a data e o prazo de conclusão de cada atividade para planejar meu tempo corretamente. |           | 2      |
-| 6    | Média      | Como usuário, quero visualizar tanto as tarefas gerais da equipe quanto às minhas |           | 2      |
-| 7    | Média      | Como usuário, quero acessar o sistema de forma responsiva tanto no computador quanto no celular, para maior conforto |           | 2      |
-| 8    | Baixa      | Como usuário, quero um visual prático e intuitivo |           | 3      |
-| 9    | Baixa      | Como usuário, quero categorizar atividades por prioridade, tipo, ou data para facilitar a visualização |           | 3      |
+| Rank | Prioridade | User Story | Estimativa | Sprint |
+|:---:|:---:|:---|:---:|:---:|
+| 1 | Alta | Como usuário, quero criar, editar e excluir atividades para organizar meu trabalho; |7 | 1 |
+| 2 | Alta | Como usuário, quero anexar arquivos em tarefas ao concluir para garantir a entrega; |4 | 1 |
+| 3 | Alta | Como usuário, quero atribuir atividades a membros da equipe para distribuir as responsabilidades; |5 | 1 |
+| 4 | Alta | Como usuário, quero acessar a plataforma com Login próprio para maior autonomia e segurança; |9 | 1 |
+| 5 | Média | Como usuário, quero visualizar a data e o prazo de conclusão de cada atividade para planejar meu tempo corretamente. |3 | 2 |
+| 6 | Média | Como usuário, quero visualizar tanto as tarefas gerais da equipe quanto às minhas |5 | 2 |
+| 7 | Média | Como usuário, quero acessar o sistema de forma responsiva tanto no computador quanto no celular, para maior conforto |3 | 2 |
+| 8 | Baixa | Como usuário, quero um visual prático e intuitivo |2 | 3 |
+| 9 | Baixa | Como usuário, quero categorizar atividades por prioridade, tipo, ou data para facilitar a visualização |6 | 3 |
 
 
 ---
@@ -44,8 +43,8 @@ Essa solução será fundamental para apoiar a GSW no gerenciamento das demandas
 ## 🗓️ Cronograma <a name="cronograma"></a>
 | Entrega | Período | Status | Relatório | Vídeo |
 |---|---|---|---|---|
-| **Kick Off** | 27/08 – 29/08/2025 | ⌛ Em andamento | | |
-| **Sprint 1** | 08/09 – 28/09/2025 | ⛔ Não iniciado | [ver relatório] | [🎥 Vídeo] |
+| **Kick Off** | 27/08 – 29/08/2025 | ✅ Concluído | | |
+| **Sprint 1** | 08/09 – 28/09/2025 | ⌛ Em andamento | [ver relatório] | [🎥 Vídeo] |
 | **Sprint 2** | 06/10 – 26/10/2025 | ⛔ Não iniciado | [ver relatório] | [🎥 Vídeo] |
 | **Sprint 3** | 03/11 – 23/11/2025 | ⛔ Não iniciado | [ver relatório] | [🎥 Vídeo] |
 | **Feira de Soluções** | 04/12/2025 | ⌛ Planejado | | |
@@ -70,9 +69,59 @@ Essa solução será fundamental para apoiar a GSW no gerenciamento das demandas
 </div>
 
 ------
-## Estrutura do Projeto 
-------
-## Como Executar o Projeto
+## 🚀 Como Executar o Projeto
+
+1.  **Clone o repositório e seus submódulos:**
+
+    Para garantir que você baixe tanto o projeto principal quanto os submódulos (os repositórios de `frontend` e `backend`), use o comando `git clone` com a flag `--recurse-submodules`.
+
+    ```bash
+    git clone --recurse-submodules [https://github.com/the-devs-department/GSW-2025.2-3Sem.git]
+    ```
+
+    *Se você já clonou o projeto sem os submódulos, pode rodar o seguinte comando para baixá-los:*
+    ```bash
+    git submodule update --init --recursive
+    ```
+
+2.  **Navegue até o diretório do projeto:**
+
+    ```bash
+    cd GSW-2025.2-3Sem
+    ```
+
+3.  **Instale as dependências:**
+
+    Agora, entre nas pastas dos submódulos para instalar as dependências de cada parte do projeto.
+
+    ```bash
+    # Instale as dependências do frontend
+    cd FRONT-END-GSW/
+    npm install
+    # Volte para a pasta principal
+    cd ../
+    # Instale as dependências do backend
+    cd BACK-END-GSW/
+    npm install
+    ```
+
+4.  **Inicie a aplicação:**
+
+    Inicie o frontend e o backend em terminais separados para que ambos possam rodar ao mesmo tempo.
+
+    ```bash
+    # No primeiro terminal, inicie o frontend:
+    cd FRONT-END-GSW/
+    npm start
+    ```
+
+    ```bash
+    # No segundo terminal, inicie o backend:
+    cd BACK-END-GSW/
+    npm start
+    ```
+
+### A aplicação estará disponível em `http://localhost:3000`.
 ------
 ## 📄 Documentos <a name="documentos"></a> (link da documentação)
 
