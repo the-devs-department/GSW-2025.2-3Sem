@@ -44,7 +44,7 @@ Essa solução será fundamental para apoiar a GSW no gerenciamento das demandas
 | Entrega | Período | Status | Relatório | Vídeo |
 |---|---|---|---|---|
 | **Kick Off** | 27/08 – 29/08/2025 | ✅ Concluído | | |
-| **Sprint 1** | 08/09 – 28/09/2025 | ⌛ Em andamento | [ver relatório](GSW-2025.2-3Sem\docs\sprints\sprint-01) | [🎥 Vídeo]() |
+| **Sprint 1** | 08/09 – 28/09/2025 | ⌛ Em andamento | [ver relatório](/docs/sprints/sprint-01/Documento-sprint01.md) | [🎥 Vídeo]() |
 | **Sprint 2** | 06/10 – 26/10/2025 | ⛔ Não iniciado | [ver relatório] | [🎥 Vídeo] |
 | **Sprint 3** | 03/11 – 23/11/2025 | ⛔ Não iniciado | [ver relatório] | [🎥 Vídeo] |
 | **Feira de Soluções** | 04/12/2025 | ⌛ Planejado | | |
@@ -124,8 +124,8 @@ Essa solução será fundamental para apoiar a GSW no gerenciamento das demandas
 ### A aplicação estará disponível em `http://localhost:3000`.
 ------
 ### 📄 **Documentos (link da documentação)**
-- **Documento do projeto:** [Link para a pasta de documentação da sprint](GSW-2025.2-3Sem\docs)
-- **Documentos das Sprints:** [Link para a pasta de documentação da sprint](GSW-2025.2-3Sem\docs\sprints)
+- **Documento do projeto:** [Link para a pasta de documentação da sprint](/docs)
+- **Documentos das Sprints:** [Link para a pasta de documentação da sprint](/docs/sprints)
 
 ---
 
