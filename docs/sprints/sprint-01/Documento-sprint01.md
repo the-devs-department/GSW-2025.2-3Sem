@@ -1,3 +1,11 @@
+### 🥅 **Meta da Sprint**
+
+- **Capacidade estimada da equipe:** 30 Story Points  
+- **Meta da Sprint:** User Stories de rank 1, 2, 3 e 4 (total de 25 Story Points)  
+- **Previsão extra (não comprometida):** 0 Story Points  
+
+---
+
 ### 🗓️ **Sprint 1**
 
 | Rank | Prioridade | User Story | Estimativa (0-10) | Sprint |
