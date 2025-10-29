@@ -50,8 +50,8 @@ Essa solução será fundamental para apoiar a GSW no gerenciamento das demandas
 | Entrega | Período | Status | Relatório | Vídeo |
 |---|---|---|---|---|
 | **Kick Off** | 27/08 – 29/08/2025 | ✅ Concluído | | |
-| **Sprint 1** | 08/09 – 28/09/2025 | ✅ Concluído | [ver relatório](/docs/sprints/sprint-01/Documento-sprint01.md) | [🎥 Vídeo]() |
-| **Sprint 2** | 06/10 – 26/10/2025 | ✅ Concluído | [ver relatório](/docs/sprints/sprint-02/Documento-sprint02.md) | [🎥 Vídeo] |
+| **Sprint 1** | 08/09 – 28/09/2025 | ✅ Concluído | [ver relatório](/docs/sprints/sprint-01/Documento-sprint01.md) | [🎥 Vídeo](https://www.youtube.com/watch?v=pnwvwDVA6UI) |
+| **Sprint 2** | 06/10 – 26/10/2025 | ✅ Concluído | [ver relatório](/docs/sprints/sprint-02/Documento-sprint02.md) | [🎥 Vídeo](https://www.youtube.com/watch?v=zkHs3_X137I) |
 | **Sprint 3** | 03/11 – 23/11/2025 | ⛔ Não iniciado | [ver relatório] | [🎥 Vídeo] |
 | **Feira de Soluções** | 04/12/2025 | ⌛ Planejado | | |
 ---
